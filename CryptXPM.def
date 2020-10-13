@@ -1,0 +1,6 @@
+LIBRARY
+EXPORTS
+	UpdateHideProcTbl	@1
+	GetProcTbl			@2
+	SetHook				@3
+	HookProc			@4
